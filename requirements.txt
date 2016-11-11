@@ -42,4 +42,4 @@ webtest
 openpyxl
 django-webtest
 
-Virtualenv
+virtualenv
