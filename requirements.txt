@@ -1,0 +1,44 @@
+Django >=1.8.16,<1.9  # This is the LTS release bump to 1.11 April 2017
+django-cms >=3.3.2, <3.4
+django-treebeard>=2.0
+
+django-registration >2.0.3, <3.0
+
+djangocms-column==1.6.0
+djangocms-googlemap==0.5.1
+djangocms-inherit==0.2.1
+djangocms-link==1.8.2
+djangocms-style==1.7.0
+
+djangocms-forms==0.2.1
+easy_thumbnails
+django-filer >=0.9.12
+cmsplugin-filer >=0.10.2
+djangocms-admin-style>=1.1.0
+djangocms-text-ckeditor>=3.1.0
+pytz
+django-reversion>=1.10.0, <2
+django-classy-tags>=0.3.4.1
+html5lib==0.999
+Pillow>=2.3
+# six - Have wheel
+django-sekizai>=0.7
+django-mailgun
+django-recaptcha
+
+vincenty
+nominatim
+aldryn-bootstrap3
+requests
+
+
+requests
+lxml  # There is a Py34-AMD64-Win wheel in bin
+coverage
+pylint_django
+csscompressor
+jsmin
+webtest
+openpyxl
+django-webtest
+
